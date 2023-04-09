@@ -8,7 +8,7 @@ Several major events happened recently in the TON Ecosystem regarding Tact langu
 
 * New ecosystem projects emerged such as the [Tact by Example](https://tact-by-example.org) website made by Tal Kol.
 
-![tact-header](./header.jpg)
+![Tact logo](./tactlogo.jpg)
 
 
 So Tact graduated to a new level of maturity, and it's time for many developers in the TON ecosystem to consider it.

@@ -56,7 +56,7 @@ Mostly my vision of Tact is that it's a pragmatic language. People who create ne
 
 This approach is similar to the Kotlin language by JetBrains. That's a great language, but it's, first and foremost, a language for building real stuff in the real world; it's not just great for the sake of being great. There's no cultism like "we only do pure functional programming" or "we're only using tabs." I've worked at JetBrains previously — not on Kotlin itself, but I've dealt with its TS compiler. I like their approach with Kotlin, and I'm trying to do something similar for the TON ecosystem.
 
-So lots of things in Tact are done in a very simple and straightforward way. Sometimes people look at my code and tell me, "Oh, it looks much simpler than I was expecting it to be." But that's the point; I don't want it to be too complex. It's meant to write smart contracts, and they are relatively simple: there are a lot fewer lines of code than, say, in a messenger like Telegram. So a language for smart contracts can be much simpler than a language for things like messengers.
+So lots of things in Tact are done in a very simple and straightforward way. Sometimes people look at the code of Tact compiler and tell me, "Oh, it looks much simpler than I was expecting it to be." But that's the point; I don't want it to be too complex. It's meant to write smart contracts, and they are relatively simple: there are a lot fewer lines of code than, say, in a messenger like Telegram. So a language for smart contracts can be much simpler than a language for things like messengers.
 
 And that's also why Tact got released so quickly after I got to it, in a matter of months. It would be easy to work on that for years. But if you release early and iterate after that, it means the language can help people solve their problems today, not sometime in the future. 
 
@@ -66,7 +66,7 @@ Currently I'm mostly working alone on the language itself, but other people help
 
 ## Tal Kol
 
-_Tal participates in lots of things useful for the TON community: websites, tutorials, blog posts, events, you name it. It's no surprise he created a whole website that helps to learn Tact. The only question is, when does he sleep?_
+_Tal does lots of things for the TON community: websites, tutorials, blog posts, and many more. It's no surprise he created a whole website that helps to learn Tact. The only question is, when does he sleep?_
 
 ![Tal Kol](./talkol.jpg)
 

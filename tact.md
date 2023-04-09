@@ -8,6 +8,7 @@ Several major events happened recently in the TON Ecosystem regarding Tact langu
 
 * New ecosystem projects emerged such as the [Tact by Example](https://tact-by-example.org) website made by Tal Kol.
 
+![tact-header](./header.jpg)
 
 
 So Tact graduated to a new level of maturity, and it's time for many developers in the TON ecosystem to consider it.
@@ -17,7 +18,7 @@ But why was there a need for another language for TON if there are FunC and Fift
 
 ## Oleg Andreev
 
-
+![Oleg Andreev](./oleganza.jpg)
 
 When I was a newcomer to TON Ecosystem, I started using the FunC language, and sometimes it didn't look to me like a good match for the task at hand. I felt it was lacking some functionality and some abstractions. I've reached out to Kirill Emelyanenko from the TON core team. He told me a new language to help developers might be a good idea. And he even told me it should be named Tact.
 
@@ -39,7 +40,7 @@ He's rewritten the language almost from scratch, so the Tact we have today diffe
 
 ## Steve Korshakov
 
-
+![Steve Korshakov](./steve.jpg)
 
 I joined the TON ecosystem first as a co-founder of TON Whales. And I often heard of Tact as "that language that will solve the issues we have today." Developing on TON at Whales, I've encountered a lot of issues myself. It was scary to update a contract holding millions. I had to set aside half a day to be sure I won't break anything and won't lock all that money. And I hoped Tact would make it all easier, but it kept not being released.
 
@@ -60,6 +61,8 @@ Currently I'm mostly working alone on the language itself, but other people help
 
 
 ## Tal Kol
+
+![Tal Kol](./talkol.jpg)
 
 When Oleg started working on Tact, I heard about it and his vision of the actor model. And I must say that I didn't quite get it at the beginning. 
 
@@ -142,6 +145,7 @@ I see my current role in Tact as an adviser who helps with two things:
 
 ## Kirill Malev
 
+![Kirill Malev](./malev.jpg)
 
 I work at First Stage Labs, and we invest in start-ups in the TON ecosystem. And because of that, I think in terms of capable and experienced teams choosing TON as a primary blockchain for building their projects. Suppose 100 teams try developing on TON for the first time. How many of them will decide to stay in the ecosystem? And how can we make that number higher?
 

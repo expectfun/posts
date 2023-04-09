@@ -18,7 +18,7 @@ But why was there a need for another language for TON if there are FunC and Fift
 
 ## Oleg Andreev
 
-_Oleg is best known in TON community for his work on Tonkeeper, but he does more than that, and he was the first person to led the development of Tact._
+_Oleg is best known in the TON community for his work on Tonkeeper, but he does more than that, and he was the first person to lead the development of Tact._
 
 ![Oleg Andreev](./oleganza.jpg)
 
@@ -66,7 +66,7 @@ Currently I'm mostly working alone on the language itself, but other people help
 
 ## Tal Kol
 
-_Tal participates in lots of things useful for TON community: websites, tutorials, blog posts, community events, you name it. It's no surprise he created a whole [website](https://tact-by-example.org) that helps to learn Tact. The only question is, when does he sleep?_
+_Tal participates in lots of things useful for the TON community: websites, tutorials, blog posts, events, you name it. It's no surprise he created a whole website that helps to learn Tact. The only question is, when does he sleep?_
 
 ![Tal Kol](./talkol.jpg)
 

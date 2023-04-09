@@ -4,7 +4,7 @@ Several major events happened recently in the TON Ecosystem regarding [Tact](htt
 
 * Tact 1.0 was released, meaning the compiler got the basic feature set required for relying on Tact as a fully fleshed-out language. It should be noted that the compiler is still undergoing reviews and security audits.
 
-* Tact Software Foundation was established. So while this community body is not a part of the TON Foundation, it is supported and guided by TON Foundation. Tact Software Foundation is managed by four founders that are very active in the TON community: **Oleg Andreev** (led the development of Tact previously), **Steve Korshakov** (develops Tact nowadays), **Tal Kol** (Orbs) and **Kirill Emelyanenko** (TON core team). There are also two advisers: **Kirill Malev** and **Lyubov Shombina**.
+* Tact Software Foundation was established. So while this community body is not a part of the TON Foundation, it is supported and guided by TON Foundation. Tact Software Foundation is managed by four founders that are very active in the TON community: **Oleg Andreev**, **Steve Korshakov**, **Tal Kol** and **Kirill Emelyanenko**. There are also two advisers: **Kirill Malev** and **Lyubov Shombina**.
 
 * New ecosystem projects emerged such as the [Tact by Example](https://tact-by-example.org) website made by Tal Kol.
 
@@ -17,6 +17,8 @@ But why was there a need for another language for TON if there are FunC and Fift
 
 
 ## Oleg Andreev
+
+_Oleg is best known in TON community for his work on Tonkeeper, but he does more than that, and he was the first person to led the development of Tact._
 
 ![Oleg Andreev](./oleganza.jpg)
 
@@ -40,6 +42,8 @@ He's rewritten the language almost from scratch, so the Tact we have today diffe
 
 ## Steve Korshakov
 
+_Steve became known in the TON community as a co-founder of TON Whales, and nowadays he develops Tact._
+
 ![Steve Korshakov](./steve.jpg)
 
 I joined the TON ecosystem first as a co-founder of TON Whales. And I often heard of Tact as "that language that will solve the issues we have today." Developing on TON at Whales, I've encountered a lot of issues myself. It was scary to update a contract holding millions. I had to set aside half a day to be sure I won't break anything and won't lock all that money. And I hoped Tact would make it all easier, but it kept not being released.
@@ -56,11 +60,13 @@ So lots of things in Tact are done in a very simple and straightforward way. Som
 
 And that's also why Tact got released so quickly after I got to it, in a matter of months. It would be easy to work on that for years. But if you release early and iterate after that, it means the language can help people solve their problems today, not sometime in the future. 
 
-Currently I'm mostly working alone on the language itself, but other people help with other ecosystem things. Like Tal Kol who is probably the second-most active person in the ecosystem at the moment. He has created [Tact by Example](https://tact-by-example.org), which is inspired to some degree by "Solidity by Example", but also adds on top of that. I'm very impressed by that website, I couldn't do it that good.
+Currently I'm mostly working alone on the language itself, but other people help with other ecosystem things. Like Tal Kol who has created [Tact by Example](https://tact-by-example.org), which is inspired to some degree by "Solidity by Example", but also adds on top of that. I'm very impressed by that website, I couldn't do it that good.
 
 
 
 ## Tal Kol
+
+_Tal participates in lots of things useful for TON community: websites, tutorials, blog posts, community events, you name it. It's no surprise he created a whole [website](https://tact-by-example.org) that helps to learn Tact. The only question is, when does he sleep?_
 
 ![Tal Kol](./talkol.jpg)
 
@@ -94,6 +100,8 @@ And for other people that don’t want to touch the core of Tact: the most helpf
 
 
 ## Kirill Emelyanenko
+
+_Kirill is in the TON core team. And, as mentioned earlier, he was the one to suggest the idea of Tact to Oleg in the first place._
 
 FunC is a very powerful language for experimenting: it is expressive enough to be used for complicated systems and lets you go down to the TVM level and do completely new things.
 
@@ -145,9 +153,11 @@ I see my current role in Tact as an adviser who helps with two things:
 
 ## Kirill Malev
 
+_Kirill works at First Stage Labs, a company that invests in start-ups in the TON ecosystem. So here's a "venture capital point of view" from him._
+
 ![Kirill Malev](./malev.jpg)
 
-I work at First Stage Labs, and we invest in start-ups in the TON ecosystem. And because of that, I think in terms of capable and experienced teams choosing TON as a primary blockchain for building their projects. Suppose 100 teams try developing on TON for the first time. How many of them will decide to stay in the ecosystem? And how can we make that number higher?
+I think in terms of capable and experienced teams choosing TON as a primary blockchain for building their projects. Suppose 100 teams try developing on TON for the first time. How many of them will decide to stay in the ecosystem? And how can we make that number higher?
 
 I've discussed those questions with people like Anthony Tsivarev (he is currently in charge of development relations at TON Foundation). And it turned out that one of the important things was a more newcomer-friendly and modern-looking programming language. A language that lowers the entry barrier and makes the learning curve less steep can bring more developers who are used to Swift, Rust, or JavaScript. 
 

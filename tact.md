@@ -101,7 +101,7 @@ And for other people that don’t want to touch the core of Tact: the most helpf
 
 ## Kirill Emelyanenko
 
-_Kirill is in the TON core team. And, as mentioned earlier, he was the one to suggest the idea of Tact to Oleg in the first place._
+_Kirill is in the TON core team, and he was the one to suggest the idea of Tact to Oleg in the first place._
 
 FunC is a very powerful language for experimenting: it is expressive enough to be used for complicated systems and lets you go down to the TVM level and do completely new things.
 

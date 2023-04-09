@@ -66,7 +66,7 @@ Currently I'm mostly working alone on the language itself, but other people help
 
 ## Tal Kol
 
-_Tal does lots of things for the TON community: websites, tutorials, blog posts, and many more. It's no surprise he created a whole website that helps to learn Tact. The only question is, when does he sleep?_
+_Tal makes lots of things for the TON community: websites, tutorials, blog posts, and many more. It's no surprise he created a whole website that helps to learn Tact. The only question is, when does he sleep?_
 
 ![Tal Kol](./talkol.jpg)
 

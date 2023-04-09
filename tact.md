@@ -1,6 +1,6 @@
 # The story of Tact language: from idea to release
 
-Several major events happened recently in the TON Ecosystem regarding Tact language:
+Several major events happened recently in the TON Ecosystem regarding [Tact](https://tact-lang.org) language:
 
 * Tact 1.0 was released, meaning the compiler got the basic feature set required for relying on Tact as a fully fleshed-out language. It should be noted that the compiler is still undergoing reviews and security audits.
 
@@ -13,7 +13,7 @@ Several major events happened recently in the TON Ecosystem regarding Tact langu
 
 So Tact graduated to a new level of maturity, and it's time for many developers in the TON ecosystem to consider it.
 
-But why was there a need for another language for TON if there are FunC and Fift? How did it all start? And how did it get to where it is today? To answer that, we reached out to some of the key people involved in Tact and they told us their perspectives.
+But why was there a need for another language for TON if there are FunC and Fift? How did it all start? And how did it get to where it is today? To answer that, I reached out to some of the key people involved in Tact and they told me their perspectives.
 
 
 ## Oleg Andreev

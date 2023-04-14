@@ -16,6 +16,7 @@ But why was there a need for another language for TON if there are FunC and Fift
 ## Oleg Andreev
 
 _Oleg is best known in the TON community for his work on Tonkeeper, but he does more than that: among other things, he was the first person to lead the development of Tact._
+
 ![Oleg Andreev](./oleganza.jpg)
 
 When I was a newcomer to TON Ecosystem, I started using the FunC language, and sometimes it didn't look to me like a good match for the task at hand. I felt it was lacking some functionality and some abstractions. I've reached out to Kirill Emelyanenko from the TON core team. He told me a new language to help developers might be a good idea. And he even told me it should be named Tact.

@@ -8,9 +8,6 @@ Several major events happened recently in the TON Ecosystem regarding [Tact](htt
 
 * New ecosystem projects emerged such as the [Tact by Example](https://tact-by-example.org) website made by Tal Kol.
 
-![Tact logo](./tactlogo.jpg)
-
-
 So Tact graduated to a new level of maturity, and it's time for many developers in the TON ecosystem to consider it.
 
 But why was there a need for another language for TON if there are FunC and Fift? How did it all start? And how did it get to where it is today? To answer that, I reached out to some of the key people involved in Tact and they told me their perspectives.
@@ -19,8 +16,9 @@ But why was there a need for another language for TON if there are FunC and Fift
 ## Oleg Andreev
 
 _Oleg is best known in the TON community for his work on Tonkeeper, but he does more than that: among other things, he was the first person to lead the development of Tact._
+![Oleg Andreev](./oleganza.jpg)
 
-<img src=https://github.com/expectfun/posts/blob/main/oleganza.jpg width=200 height=200 align=left>When I was a newcomer to TON Ecosystem, I started using the FunC language, and sometimes it didn't look to me like a good match for the task at hand. I felt it was lacking some functionality and some abstractions. I've reached out to Kirill Emelyanenko from the TON core team. He told me a new language to help developers might be a good idea. And he even told me it should be named Tact.
+When I was a newcomer to TON Ecosystem, I started using the FunC language, and sometimes it didn't look to me like a good match for the task at hand. I felt it was lacking some functionality and some abstractions. I've reached out to Kirill Emelyanenko from the TON core team. He told me a new language to help developers might be a good idea. And he even told me it should be named Tact.
 
 The name "Tact" stands for "TON Actors," referring to the actor model used in TON. This async model is a little bit chaotic, it might introduce things like race conditions, so you have to design things really well while dealing with it. TON is a powerful technology, but a developer should have abstractions on top of TON to use all that power. So the idea of Tact (as well as some other things like TON API) was to unleash that power of TON and make it more useful for the people.
 
